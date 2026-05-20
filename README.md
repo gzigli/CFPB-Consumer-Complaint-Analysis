@@ -241,6 +241,9 @@ GROUP BY [product];
 
 # Power BI Dashboard
 
+<img width="1158" height="736" alt="image" src="https://github.com/user-attachments/assets/819452f6-9ffa-4b22-97ec-9f6e8b9cb19f" />
+
+
 A three-page Power BI dashboard was developed using consulting-style design principles.
 
 ---
