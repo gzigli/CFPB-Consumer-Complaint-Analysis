@@ -1,0 +1,13 @@
+During this phase of the project, a three-page Power BI dashboard was developed using the cleaned CFPB Consumer Complaints dataset to support KPI monitoring, Root Cause Analysis (RCA), and Lean operational analysis.
+Page 1 – Executive Summary was designed to provide a high-level overview of complaint activity and operational performance. This page includes KPI cards for total complaints, on-time response percentage, average response time, and complaint share metrics. Additional visuals were created to analyse complaints by product, year received, and top complaint issues. Interactive year slicers were implemented to allow dynamic filtering across the report.
+Page 2 – Root Cause Analysis (RCA) focuses on identifying the main operational drivers behind customer complaints. This page includes visualizations for complaints by issue category, complaints by state, and a Product × Issue matrix to identify relationships between complaint types and financial products. Operational performance visuals such as On-Time % by Product and Average Response Time analysis were added to highlight inefficiencies and potential service bottlenecks.
+Page 3 – Pareto & Lean Analysis was developed to prioritize operational improvement opportunities using Pareto principles and Lean methodology. A Pareto chart was created using advanced DAX measures to calculate cumulative complaint percentages and identify the small number of issues responsible for the majority of complaints. Additional visuals were included to evaluate operational priority areas, response performance, and process concentration risks across products and complaint categories.
+The report development process included:
+•	SQL-based data cleaning and transformation 
+•	creation of a cleaned analytical view 
+•	KPI and DAX measure development 
+•	Pareto cumulative calculations 
+•	Power BI data modeling 
+•	interactive filtering and slicers 
+•	consulting-style dashboard design 
+•	RCA and Lean operational storytelling
