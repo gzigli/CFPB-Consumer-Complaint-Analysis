@@ -334,3 +334,189 @@ DIVIDE(
     [Pareto Running Total],
     CALCULATE(
         [Total
+---
+
+# Executive Findings & Recommendations Presentation
+
+This section summarizes the key operational findings identified through KPI analysis, Root Cause Analysis (RCA), Pareto analysis, and Lean methodology. The objective of the presentation was to translate analytical findings into actionable business recommendations and operational improvement opportunities.
+
+---
+
+# Key Findings
+
+## Operational Performance Findings
+
+| KPI | Result |
+|---|---|
+| Total Complaints | 127 |
+| On-Time Response Rate | 99.21% |
+| Disputed Resolutions | 15% |
+| Closed with Explanation | 29% |
+| Company Followed Law | 51.97% |
+
+### Key Observation
+
+The organization demonstrates strong operational responsiveness with a high on-time response rate; however, dispute levels and complaint concentration indicate opportunities to improve resolution effectiveness, customer communication, and operational governance.
+
+---
+
+# Complaint Concentration Findings
+
+## Primary Complaint Drivers
+
+The analysis identified that the majority of complaints originated from:
+
+- Debt Collection activities
+- Continued attempts to collect debts not owned by customers
+- Communication tactics during debt collection interactions
+
+## Geographic Concentration
+
+The highest complaint volumes originated from:
+
+- Texas
+- California
+
+### Operational Insight
+
+The concentration of complaints within a limited number of operational categories suggests process inefficiencies and potential weaknesses in debt validation and communication procedures.
+
+---
+
+# Trend Analysis Findings
+
+## Complaint Trend Overview
+
+| Year | Complaints |
+|---|---|
+| 2015 | 45 |
+| 2018 | 6 |
+| 2020 | 12 |
+
+### Trend Observation
+
+Although complaint volumes increased slightly between 2018 and 2020, the overall complaint levels remained significantly lower than 2015 levels, indicating operational improvement over time.
+
+However, recurring complaint themes suggest unresolved systemic process issues within debt collection operations.
+
+---
+
+# Root Cause Analysis (RCA)
+
+## Key Operational Risks Identified
+
+### 1. Debt Ownership Validation Issues
+
+Complaints indicate repeated attempts to collect debts from individuals who do not own the debt.
+
+### 2. Communication Process Weaknesses
+
+Customers reported dissatisfaction with communication tactics and escalation handling.
+
+### 3. Resolution Effectiveness Gaps
+
+A 15% dispute rate suggests that some complaint resolutions did not fully resolve customer concerns.
+
+### 4. Compliance Consistency Risks
+
+Only 51.97% of responses explicitly indicated compliance with contractual or legal obligations.
+
+---
+
+# Pareto Analysis Findings
+
+Pareto analysis demonstrated that a small number of issue categories generated the majority of complaint activity.
+
+## Lean Observation
+
+This confirms operational concentration risk and indicates that targeted improvements in debt collection workflows could significantly reduce total complaint volumes.
+
+---
+
+# Business Recommendations
+
+## 1. Strengthen Debt Validation Controls
+
+### Recommendation
+Implement mandatory debt ownership verification procedures before collection activity begins.
+
+### Expected Outcome
+- Reduced incorrect debt collection attempts
+- Lower complaint volumes
+- Reduced operational risk
+
+---
+
+## 2. Improve Customer Communication Practices
+
+### Recommendation
+Standardize compliant communication procedures and escalation handling processes.
+
+### Expected Outcome
+- Improved customer experience
+- Reduced dispute rates
+- Increased complaint resolution effectiveness
+
+---
+
+## 3. Enhance Complaint Resolution Frameworks
+
+### Recommendation
+Introduce standardized RCA tagging and escalation prioritization workflows.
+
+### Expected Outcome
+- Faster issue resolution
+- Better operational visibility
+- Improved trend identification
+
+---
+
+## 4. Expand Compliance Monitoring
+
+### Recommendation
+Implement additional operational audits and compliance monitoring for high-risk complaint categories.
+
+### Expected Outcome
+- Improved regulatory alignment
+- Reduced compliance exposure
+- Improved operational governance
+
+---
+
+## 5. Geographic Risk Monitoring
+
+### Recommendation
+Perform targeted reviews of complaint drivers within Texas and California operations.
+
+### Expected Outcome
+- Improved regional operational controls
+- Better complaint trend monitoring
+- Reduced geographic concentration risk
+
+---
+
+# Expected Business Outcomes
+
+Implementation of the recommendations is expected to support:
+
+- Reduced complaint concentration
+- Lower dispute rates
+- Improved customer satisfaction
+- Improved complaint resolution effectiveness
+- Stronger compliance alignment
+- Reduced operational and reputational risk
+
+---
+
+# Final Conclusion
+
+The project successfully delivered an end-to-end analytics solution combining:
+
+- SQL data engineering
+- KPI development
+- Power BI dashboarding
+- Root Cause Analysis (RCA)
+- Pareto prioritization
+- Lean operational analysis
+
+The final dashboard and presentation provide actionable operational insights capable of supporting process optimization, compliance monitoring, and customer experience improvement initiatives.
