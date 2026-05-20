@@ -76,6 +76,8 @@ CFPB-Complaint-Analysis
 ├── Documentation
 ├── Images
 
+---
+
 # SQL Data Preparation & Transformation
 
 A structured data cleaning process was applied to improve data quality and reporting consistency.
@@ -87,6 +89,8 @@ Standardized mixed date formats into SQL DATE format
 Date Format Normalization
 
 Resolved inconsistencies between:
+
+```text
 
 UK date format (dd/MM/yyyy)
 US date format (MM/dd/yyyy)
@@ -154,7 +158,7 @@ Top 5 complaint issues
 Distribution Metrics
 
 Complaint share percentage using SQL window functions:
-
+```text
 COUNT(*) * 100.0 / SUM(COUNT(*)) OVER ()
 SQL KPI Examples
 Total Complaints by Product
@@ -227,7 +231,7 @@ Operational risk concentration analysis
 Key Insight
 
 A small number of issue categories generated the majority of complaints.
-
+```text
 DAX Measures Developed
 Total Complaints
 Total Complaints =
