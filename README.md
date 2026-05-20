@@ -515,6 +515,32 @@ Implementation of the recommendations is expected to support:
 
 ---
 
+# Delivery Methodology (Agile – Jira Scrum)
+
+The project was delivered using an Agile Scrum framework in **Jira**, ensuring structured execution, transparency, and iterative development.
+
+## Agile Execution Approach
+
+- **Epic & Sprint Planning:** Work was structured into epics covering data engineering, KPI development, RCA, dashboarding, and reporting. These were decomposed into sprint-level user stories with defined acceptance criteria.
+
+- **Iterative Sprint Delivery:** Development was executed across multiple sprints, enabling incremental delivery and continuous validation of SQL models, Power BI dashboards, and analytical outputs.
+
+- **Daily Stand-ups:** Regular stand-ups were conducted to track progress, align priorities, and ensure continuous delivery momentum.
+
+- **Blocker Management:** Issues and dependencies were actively tracked in Jira, with blockers identified early and resolved through structured escalation paths.
+
+## Agile Outcomes
+
+- Improved delivery transparency and predictability  
+- Faster resolution of technical and analytical blockers  
+- Strong alignment between business requirements and analytics outputs  
+- Continuous refinement of dashboards based on feedback  
+
+<img width="1701" height="941" alt="Screenshot 2026-04-21 215016" src="https://github.com/user-attachments/assets/b31035a0-7ce2-4ffd-81ee-74344dced36c" />
+
+---
+
+
 # Final Conclusion
 
 The project successfully delivered an end-to-end analytics solution combining:
