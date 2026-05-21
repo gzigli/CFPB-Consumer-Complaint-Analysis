@@ -16,7 +16,7 @@ The project combines:
 - Power BI dashboard development
 - Executive reporting and business recommendations
 
-The objective of the project was to transform raw complaint data into a structured analytical solution capable of supporting operational monitoring, complaint prioritization, and data-driven decision-making.
+The objective of the project was to transform raw complaint data into a structured analytical solution capable of supporting operational monitoring, complaint prioritisation, and data-driven decision-making.
 
 ---
 
@@ -86,12 +86,12 @@ A structured data cleaning process was applied to improve data quality and repor
 
 ## Key Cleaning Activities
 
-### Data Type Standardization
+### Data Type Standardisation
 
 - Converted complaint IDs and ZIP codes into numeric formats
 - Standardized mixed date formats into SQL DATE format
 
-### Date Format Normalization
+### Date Format Normalisation
 
 Resolved inconsistencies between:
 
@@ -114,9 +114,9 @@ to correctly parse ambiguous date values.
 - Replaced NULL values with standardized labels such as:
   - `'Unknown'`
 
-### Categorical Standardization
+### Categorical Standardisation
 
-Normalized inconsistent categories including:
+Normalised inconsistent categories including:
 
 - Subproducts
 - Timely response status
@@ -154,8 +154,8 @@ CFPB_Consumer_Complaints_2024_clean
 
 ## Purpose
 
-- Centralize transformations
-- Standardize KPI calculations
+- Centralise transformations
+- Standardise KPI calculations
 - Support Power BI reporting
 - Preserve raw source data integrity
 
@@ -288,7 +288,7 @@ Debt Collection represented the dominant complaint category.
 
 # Page 3 — Pareto & Lean Analysis
 
-Focused on operational prioritization and process improvement opportunities.
+Focused on operational prioritiaation and process improvement opportunities.
 
 ## Features
 
@@ -345,7 +345,7 @@ DIVIDE(
 
 # Executive Findings & Recommendations Presentation
 
-This section summarizes the key operational findings identified through KPI analysis, Root Cause Analysis (RCA), Pareto analysis, and Lean methodology. The objective of the presentation was to translate analytical findings into actionable business recommendations and operational improvement opportunities.
+This section summarises the key operational findings identified through KPI analysis, Root Cause Analysis (RCA), Pareto analysis, and Lean methodology. The objective of the presentation was to translate analytical findings into actionable business recommendations and operational improvement opportunities.
 
 ---
 
@@ -363,7 +363,7 @@ This section summarizes the key operational findings identified through KPI anal
 
 ### Key Observation
 
-The organization demonstrates strong operational responsiveness with a high on-time response rate; however, dispute levels and complaint concentration indicate opportunities to improve resolution effectiveness, customer communication, and operational governance.
+The organisation demonstrates strong operational responsiveness with a high on-time response rate; however, dispute levels and complaint concentration indicate opportunities to improve resolution effectiveness, customer communication, and operational governance.
 
 ---
 
@@ -457,7 +457,7 @@ Implement mandatory debt ownership verification procedures before collection act
 ## 2. Improve Customer Communication Practices
 
 ### Recommendation
-Standardize compliant communication procedures and escalation handling processes.
+Standardise compliant communication procedures and escalation handling processes.
 
 ### Expected Outcome
 - Improved customer experience
@@ -469,7 +469,7 @@ Standardize compliant communication procedures and escalation handling processes
 ## 3. Enhance Complaint Resolution Frameworks
 
 ### Recommendation
-Introduce standardized RCA tagging and escalation prioritization workflows.
+Introduce standardized RCA tagging and escalation prioritisation workflows.
 
 ### Expected Outcome
 - Faster issue resolution
@@ -552,4 +552,4 @@ The project successfully delivered an end-to-end analytics solution combining:
 - Pareto prioritization
 - Lean operational analysis
 
-The final dashboard and presentation provide actionable operational insights capable of supporting process optimization, compliance monitoring, and customer experience improvement initiatives.
+The final dashboard and presentation provide actionable operational insights capable of supporting process optimisation, compliance monitoring, and customer experience improvement initiatives.
